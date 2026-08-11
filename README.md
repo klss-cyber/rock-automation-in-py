@@ -8,7 +8,7 @@ Automação simples de tarefas no YouTube utilizando **Python** e **PyAutoGUI**.
 
 ## Foto do código
 
-<img src="code.png"/>
+<img src="newcode.png"/>
 
 ## 🛠️ Tecnologias
 
